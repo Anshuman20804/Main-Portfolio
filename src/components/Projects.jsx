@@ -1,15 +1,15 @@
 const Projects = () => {
   const projects = [
     {
-      title: "Food Order App",
+      title: "Payzo",
       description:
-        "A user-friendly app for browsing restaurant menus, adding items to cart, placing orders, and tracking deliveries. Features include user login, secure payments, order history, and an admin panel to manage restaurants and orders.",
-      technologies: ["HTML", "CSS", "JavaScript"],
+        "Payzo is a modern digital payment platform built with cutting-edge web technologies including Next.js 15, React 19, Tailwind CSS, and TypeScript. Designed for performance, scalability, and a smooth user experience, Payzo features a clean UI and modular architecture ready for real-world expansion.",
+      technologies: [Next.js,React,TypeScript,Tailwind CSS v4],
       features: [
-        "User authentication and login system",
-        "Order tracking and payment integration",
-        "Admin panel for order and restaurant management",
-        "Responsive layout for mobile and desktop",
+        "Modern and responsive payment UI",
+        "Smooth animations using js-confetti",
+        "Built with Next.js 15, React 19, and TypeScript",
+        "Fast performance with Turbopack",
       ],
     },
     {
