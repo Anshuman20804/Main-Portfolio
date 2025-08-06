@@ -4,7 +4,7 @@ const Projects = () => {
       title: "Payzo",
       description:
         "Payzo is a modern digital payment platform built with cutting-edge web technologies including Next.js 15, React 19, Tailwind CSS, and TypeScript. Designed for performance, scalability, and a smooth user experience, Payzo features a clean UI and modular architecture ready for real-world expansion.",
-      technologies: [Next.js,React,TypeScript,Tailwind CSS v4],
+      technologies: ["Next.js", "React", "TypeScript", "Tailwind CSS v4"],
       features: [
         "Modern and responsive payment UI",
         "Smooth animations using js-confetti",
